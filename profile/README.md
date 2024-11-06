@@ -1,10 +1,12 @@
 # Cal-ICOR
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="logo-trans.png">
-  <img alt="Cal-ICOR logo." src="logo-white.png">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo-trans.png">
+    <img alt="Cal-ICOR logo." src="logo-white.png">
+  </picture>
+</p>
 
 ## Project Vision
 
