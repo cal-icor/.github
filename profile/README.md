@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-white.png">
+    <source media="(prefers-color-scheme: dark)" srcset="logo-trans.png">
     <source media="(prefers-color-scheme: light)" srcset="CalIcor-logo2.png">
     <img alt="Cal-ICOR logo." src="logo-white.png">
   </picture>
